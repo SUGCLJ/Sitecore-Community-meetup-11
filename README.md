@@ -4,7 +4,7 @@ Meetup was Thursday, June 8th, 2023 and it was held in person, and the event spo
 
 Agenda:
 
-- Sitecore Community and the MVP Program - Tamas Varga
-- XM Cloud - Sorina Tibre
-- Headless SXA - Gerhart Magdas
-- OrderCloud - Vlad Iobagiu
+- Sitecore Community and the MVP Program | Tamas Varga
+- XM Cloud | Sorina Tibre
+- Headless SXA | Gerhart Magdas
+- OrderCloud | Vlad Iobagiu
